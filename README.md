@@ -1,0 +1,1 @@
+This project will scrape product reviews and ratings from Flipkart and save them to a csv file.
